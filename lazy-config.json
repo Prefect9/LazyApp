@@ -1,0 +1,9 @@
+{
+    "controllers": "/components",
+    "routes": {
+        "/": "Main()"
+    },
+    "sources": {
+        
+    }
+}
